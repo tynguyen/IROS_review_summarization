@@ -3,9 +3,9 @@ Given a html file that contains all reviews for a paper, aggregate all informati
 
 # Usage
 ## Generate `.html` file that contains all reviews
-[1] First, go to the IROS workspace 
-[2]`Reviews` menu under each paper
-[3]`One click reviews` to display all reviews within a window
+[1] First, go to the IROS workspace\
+[2]`Reviews` menu under each paper \
+[3]`One click reviews` to display all reviews within a window \
 [4] Find a way to save the window to a `.html` file to the local folder, for example, `reviews/`
 
 ## Generate summarization files
